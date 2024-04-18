@@ -1,0 +1,54 @@
+.container-fluid {
+    color: rgba(255, 255, 255, 0.826);
+    background-color:#373739;
+    padding: 10px;
+    text-align: center;  
+    position: sticky;
+    top: 0;  
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#img1 {
+    filter: brightness(70%);
+    position: sticky;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.centrado2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.centrado-3{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.container-fluid6 {
+    background-color: #087cfc;
+    padding: 10%;
+    color: white;
+}
+
+#boton-reg {
+    position: absolute;
+    transform: translate(10%,200%)
+}
